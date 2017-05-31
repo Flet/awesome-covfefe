@@ -8,6 +8,8 @@ Delightful and entertaining covfefe related resources
 
 - **[covfefe PHP Class](https://github.com/denniskupec/covfefe)** - Append the famous expression to the end of strings.
 
+- **[covfefe Tweet analysis by synthesis] (https://github.com/jblsmith/covfefe)** - Tweet analysis by synthesis: what did he mean?
+
 
 PRs welcome!
 
@@ -15,5 +17,4 @@ PRs welcome!
 
 [![CC0](http://i.creativecommons.org/p/zero/1.0/88x31.png)](http://creativecommons.org/publicdomain/zero/1.0/)
 
-To the extent possible under law, [Feross Aboukhadijeh](http://feross.org) has waived all copyright and related or neighboring rights to this work.
-
+To the extent possible under law, [Dan Flettre](http://twitter.com/flettre) has waived all copyright and related or neighboring rights to this work.
