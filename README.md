@@ -6,6 +6,7 @@ Delightful and entertaining covfefe related resources
 
 - **[covfefe Atom Plugin](https://atom.io/packages/covfefe)** - Have access to our president's idiocy without leaving your editor.
 
+- **[covfefe PHP Class](https://github.com/denniskupec/covfefe)** - Append the famous expression to the end of strings.
 
 
 PRs welcome!
