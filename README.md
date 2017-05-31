@@ -1,7 +1,7 @@
 # Awesome Covfefe [![Awesome](https://cdn.rawgit.com/sindresorhus/awesome/d7305f38d29fed78fa85652e3a63e154dd8e8829/media/badge.svg)](https://github.com/sindresorhus/awesome)
 Delightful and entertaining covfefe related resources
 
-- **[3D printable covfefe doorstop](https://www.thingiverse.com/thing:2355855) - Keep the door open with just a word.
+- **[3D printable covfefe doorstop](https://www.thingiverse.com/thing:2355855)** - Keep the door open with just a word.
 
 - **[covfefe npm package](https://www.npmjs.com/package/covfefe)** - End tweets with style.
 
