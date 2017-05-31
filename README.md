@@ -8,7 +8,7 @@ Delightful and entertaining covfefe related resources
 
 - **[covfefe PHP Class](https://github.com/denniskupec/covfefe)** - Append the famous expression to the end of strings.
 
-- **[covfefe Tweet analysis by synthesis] (https://github.com/jblsmith/covfefe)** - Tweet analysis by synthesis: what did he mean?
+- **[covfefe Tweet analysis by synthesis](https://github.com/jblsmith/covfefe)** - Tweet analysis by synthesis: what did he mean?
 
 
 PRs welcome!
