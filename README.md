@@ -10,6 +10,11 @@ Delightful and entertaining covfefe related resources
 
 - **[covfefe Tweet analysis by synthesis](https://github.com/jblsmith/covfefe)** - Tweet analysis by synthesis: what did he mean?
 
+- **[covfefe Tweet analysis by synthesis](https://github.com/jblsmith/covfefe)** - Tweet analysis by synthesis: what did he mean?
+
+- **[covfefe fastlane plugin](https://github.com/CodeReaper/fastlane-plugin-covfefe)** - Fastlane plugin to ensure covfefe 
+
+
 
 PRs welcome!
 
